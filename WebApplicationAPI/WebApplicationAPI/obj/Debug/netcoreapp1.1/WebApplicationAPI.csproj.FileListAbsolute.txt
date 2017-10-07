@@ -1,0 +1,9 @@
+D:\RandyFamador\API_TRAINING\WebApplicationAPI\WebApplicationAPI\bin\Debug\netcoreapp1.1\WebApplicationAPI.deps.json
+D:\RandyFamador\API_TRAINING\WebApplicationAPI\WebApplicationAPI\bin\Debug\netcoreapp1.1\WebApplicationAPI.runtimeconfig.json
+D:\RandyFamador\API_TRAINING\WebApplicationAPI\WebApplicationAPI\bin\Debug\netcoreapp1.1\WebApplicationAPI.runtimeconfig.dev.json
+D:\RandyFamador\API_TRAINING\WebApplicationAPI\WebApplicationAPI\bin\Debug\netcoreapp1.1\WebApplicationAPI.dll
+D:\RandyFamador\API_TRAINING\WebApplicationAPI\WebApplicationAPI\obj\Debug\netcoreapp1.1\WebApplicationAPI.csprojResolveAssemblyReference.cache
+D:\RandyFamador\API_TRAINING\WebApplicationAPI\WebApplicationAPI\obj\Debug\netcoreapp1.1\WebApplicationAPI.AssemblyInfo.cs
+D:\RandyFamador\API_TRAINING\WebApplicationAPI\WebApplicationAPI\bin\Debug\netcoreapp1.1\WebApplicationAPI.pdb
+D:\RandyFamador\API_TRAINING\WebApplicationAPI\WebApplicationAPI\obj\Debug\netcoreapp1.1\WebApplicationAPI.dll
+D:\RandyFamador\API_TRAINING\WebApplicationAPI\WebApplicationAPI\obj\Debug\netcoreapp1.1\WebApplicationAPI.pdb
